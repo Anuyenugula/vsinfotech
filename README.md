@@ -1,3 +1,3 @@
 # vsinfotech
 My second repository on github
-I love :Tea:, :Donuts:, and :dancer:.
+I love :tea:, :🍪:, and :dancer:.
